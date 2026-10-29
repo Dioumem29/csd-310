@@ -1,0 +1,11 @@
+{
+  "user_id": 101,
+  "first_name": "Moustafa",
+  "last_name": "Dioum",
+  "roles": [
+    "Student",
+    "Software Developer"
+  ],
+  "birthdate": "2000-01-01",
+  "dependents": []
+}
